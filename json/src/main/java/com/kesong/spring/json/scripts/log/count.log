@@ -1,0 +1,5 @@
+Thu, 07 Dec 2017 16:56:18 logutil.py[line:68] INFO success1
+Thu, 07 Dec 2017 17:24:03 logutil.py[line:67] INFO a
+Thu, 07 Dec 2017 17:24:03 logutil.py[line:69] INFO b
+Mon, 11 Dec 2017 14:18:56 logutil.py[line:67] INFO a
+Mon, 11 Dec 2017 14:18:56 logutil.py[line:69] INFO b
