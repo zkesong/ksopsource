@@ -9,6 +9,7 @@
     <module>data</module>
       <module>json</module>
       <module>security</module>
+      <module>kafka</module>
   </modules>
   <name>spring Maven Webapp</name>
   <url>http://maven.apache.org</url>
