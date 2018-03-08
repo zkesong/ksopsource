@@ -1,0 +1,13 @@
+{
+	"job": {
+		"content": {
+			"database": "gsj_hj",
+			"type": "valid",
+			"mechanism": "singledb",
+			"sources": [
+				"peta",
+				"hive"
+			]
+		}
+	}
+}

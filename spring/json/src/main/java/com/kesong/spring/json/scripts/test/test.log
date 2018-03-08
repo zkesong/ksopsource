@@ -1,0 +1,5 @@
+Mon, 04 Dec 2017 10:38:53testlogging.py[line:18] DEBUG this is a debug message
+Mon, 04 Dec 2017 10:38:53testlogging.py[line:19] INFO this is a info message
+Mon, 04 Dec 2017 10:38:53testlogging.py[line:20] WARNING this is a warning message
+Mon, 04 Dec 2017 10:38:53testlogging.py[line:21] ERROR this is a error message
+Mon, 04 Dec 2017 10:38:53testlogging.py[line:22] CRITICAL this is a critical message
